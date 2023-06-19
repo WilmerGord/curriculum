@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+body{
+   
+    padding: 20px 30px;
+    /**text-align: center;**/
+    font-size: 18px;
+    /**letter-spacing para separar o juntar las letras de cualquier texto.**/
+    letter-spacing: +2px ;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+header{
+    background-color: aliceblue;
+    margin: auto;
+    padding: 10px;
+}
+
+header img{
+    display: block;
+    margin: 10px auto;
+    padding: auto;
+    width: 13%;
+}
+
+main {
+    background-color: rgb(247, 242, 237);
+    margin: auto;
+    padding: 10px;
+}
+
+ol, ul {
+    font-size: 15px;
+    list-style: none;
+}
+
+h1, h2, div, .cont1, .cont2, section {
+    margin: 10px;
+}
+
+footer{
+    background-color: rgb(104, 103, 103);
+    padding: 15px;
+    font-size: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+}
